@@ -1,8 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=100&section=header)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mareanx&bg_color=0d1117&color=8B008B&line=8B008B&point=DA70D6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareanx&layout=compact&bg_color=0d1117&color=8B008B)](https://github.com/mareanx/github-readme-stats)
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareanx&layout=compact&bg_color=0d1117&color=8B008B)](https://github.com/mareanx/github-readme-stats)
 
 
 
@@ -16,3 +16,5 @@
           
           
  </div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareanx&layout=compact&bg_color=0d1117&color=8B008B)](https://github.com/mareanx/github-readme-stats)
+
