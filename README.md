@@ -16,5 +16,5 @@
           
           
  </div>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareanx&layout=compact&bg_color=0d1117&color=8B008B)](https://github.com/mareanx/github-readme-stats)
+
 
