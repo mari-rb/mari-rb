@@ -1,20 +1,37 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=100&section=header)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mareanx&bg_color=0d1117&color=8B008B&line=8B008B&point=DA70D6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareanx&layout=compact&bg_color=0d1117&color=8B008B)](https://github.com/mareanx/github-readme-stats)
+<div display="flex" align="center" margin="500px">
 
 
+<h1 align="center" font-size="300">Olá! <img src="https://media.tenor.com/PN7Bccnho5wAAAAj/penguin-hi.gif" height="60px"></h1>
 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-          
-          
- </div>
+</div>
+
+ ##     
+
+<div align="center">
+  <div>      
+    <h3>Tecnologias e ferramentas 🔧<h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" width="42" alt="html5 logo" title="HTML5"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"height="25" width="42" alt="css3 logo" title="CSS3" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" width="42" alt="javascript logo"  >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" title="REACT NATIVE">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" title="TYPESCRIPT">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" width="42" alt="figma logo"  title="FIGMA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" width="42" a title="VSCODE" />
+  </div>
+
+ ## 
+
+<img height="180cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mareanx&theme=github_dark"/>
+<br>
+<hr/>     
+
+      
+<img height="182cm" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mareanx&theme=github_dark"/>
+
+<img height="182cm" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mylennabra&theme=github_dark"/>
+
+
+
+
 
 
