@@ -1,5 +1,6 @@
 <div display="flex" align="center" margin="500px">
 
+<hr/>
 
 <h1 align="center" font-size="300">Olá! <img src="https://media.tenor.com/PN7Bccnho5wAAAAj/penguin-hi.gif" height="60px"></h1>
 
