@@ -6,8 +6,8 @@
 
 </div>
 
- ##     
-
+      
+ #
 <div align="center">
   <div>      
     <h3>Tecnologias e ferramentas 🔧<h3>
@@ -22,7 +22,11 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="55" a title="GIT"/>
   </div>
 
- ## 
+ 
+ <hr/>
+
+ ##
+ 
  <img height="170cm" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mareanx&theme=github_dark"/>
  <img height="170cm" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mareanx&theme=github_dark"/>
 <br>
