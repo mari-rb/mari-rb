@@ -27,11 +27,14 @@
 
  ##
  
- <img height="170cm" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mareanx&theme=github_dark"/>
- <img height="170cm" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mareanx&theme=github_dark"/>
+ <img height="180cm" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mareanx&theme=codeSTACKr"/>
+ <img height="180cm" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mareanx&theme=codeSTACKr"/>
 <br>
  
-<img height="170cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mareanx&theme=github_dark"/>
+<img height="176cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mareanx&theme=codeSTACKr"/>
+
+##
+ 
 <hr/>    
 
 
