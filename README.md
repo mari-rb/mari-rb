@@ -2,7 +2,7 @@
 <div display="flex" align="center" margin="500px">
 
 
-<h1 align="center" font-size="300">Olá! <img src="https://media.tenor.com/PN7Bccnho5wAAAAj/penguin-hi.gif" height="60px"></h1>
+<h1 align="center" font-size="300">Olá! <img src="https://media.tenor.com/PN7Bccnho5wAAAAj/penguin-hi.gi" height="60px"></h1>
 
 </div>
 
