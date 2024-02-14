@@ -8,9 +8,10 @@
       
  <hr/>
 <div align="center">
-  <img height="180cm" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mareanx&theme=github_dark"/>
-  <img height="180cm" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mareanx&theme=github_dark&utcOffset=8"/>
- <img height="180cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mareanx&theme=github_dark"/>
+  <img height="200cm" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mareanx&theme=bear"/>
+  <img height="200cm" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mareanx&theme=bear&utcOffset=8"/>
+ <img height="200cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mareanx&theme=bear"/>
+ <img height="200cm" src="https://github-readme-streak-stats.herokuapp.com/?user=Mareanx&theme=bear&hide_border=false"/>
  
 </div>
 
@@ -24,10 +25,14 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" width="55" alt="figma logo"  title="FIGMA"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" width="55" a title="VSCODE" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="55" a title="GIT"/>
+     <hr/>
+   
+  </div> 
+
+ 
   </div>
- 
- 
 <hr/>    
+ <img src="https://visitcount.itsvg.in/api/test?icon=2&color=5"/>
 
 
 
