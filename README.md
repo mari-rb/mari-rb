@@ -11,7 +11,7 @@
   <img height="200cm" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mareanx&theme=bear"/>
   <img height="200cm" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mareanx&theme=bear&utcOffset=8"/>
  <img height="200cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mareanx&theme=bear"/>
- <img height="200cm" src="https://github-readme-streak-stats.herokuapp.com/?user=Mareanx&theme=bear&hide_border=false"/>
+
  
 </div>
 
