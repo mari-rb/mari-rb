@@ -8,9 +8,9 @@
       
  <hr/>
 <div align="center">
-  <img height="200cm" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mareanx&theme=bear"/>
-  <img height="200cm" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mareanx&theme=bear&utcOffset=8"/>
- <img height="200cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mareanx&theme=bear"/>
+  <img height="200cm" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mareanx&theme=transparent"/>
+  <img height="200cm" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mareanx&theme=transparent&utcOffset=8"/>
+ <img height="200cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mareanx&theme=transparent"/>
 
  
 </div>
@@ -34,7 +34,6 @@
  
   </div>
 <hr/>    
- <img src="https://visitcount.itsvg.in/api/test?icon=2&color=5"/>
 
 
 
