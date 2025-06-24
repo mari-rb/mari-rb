@@ -38,11 +38,11 @@ Sou desenvolvedora front-end com foco em criar interfaces acessíveis, performá
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/share/@mareanxr/cd0d9fa9-8c19-4328-9163-2b80fdeeca44.svg" alt="Linguagens mais usadas" width="70%"/>
+  <img src="https://wakatime.com/share/@mareanxr/b68caf6c-5050-4f8a-a06a-6f844939e63c.svg" alt="Linguagens mais usadas" width="50%"/>
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/share/@mareanxr/7faead06-d6a7-484e-8a1d-8b0e10e76dcc.svg" alt="Gráfico de frequência de código" width="70%"/>
+  <img src="https://wakatime.com/share/@mareanxr/820f1b28-50da-4b93-bbc6-dee262b82b21.svg" alt="Gráfico de frequência de código" width="70%"/>
 </p>
 
 ---
