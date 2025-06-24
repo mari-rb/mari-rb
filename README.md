@@ -42,7 +42,7 @@ Sou desenvolvedora front-end com foco em criar interfaces acessíveis, performá
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/share/@mareanxr/820f1b28-50da-4b93-bbc6-dee262b82b21.svg" alt="Gráfico de frequência de código" width="70%"/>
+  <img src="https://wakatime.com/share/@mareanxr/820f1b28-50da-4b93-bbc6-dee262b82b21.svg" alt="Gráfico de frequência de código" width="80%"/>
 </p>
 
 ---
