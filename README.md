@@ -45,14 +45,5 @@ Sou desenvolvedora front-end com foco em criar interfaces acessíveis, performá
   <img src="https://wakatime.com/share/@mareanxr/820f1b28-50da-4b93-bbc6-dee262b82b21.svg" alt="Gráfico de frequência de código" width="80%"/>
 </p>
 
----
 
-## Contato
-
-Caso queira conversar sobre tecnologia, design, desenvolvimento front-end ou trocar experiências:
-
-- 💬 Aqui no GitHub mesmo
-- 🤝 [Meu LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui)
-
----
 
