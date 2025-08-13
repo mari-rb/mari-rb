@@ -26,6 +26,7 @@ Sou desenvolvedora front-end com foco em criar interfaces acessíveis, performá
 | React / TypeScript / JavaScript | Flutter (Dart) | Figma |
 | Tailwind / CSS / Radix UI | Docker | Git & GitHub |
 | Yup / React Hook Form / Zod |React Native | Wakatime |
+|   /        / Zod |          |  Jenkins           |
 
 ---
 
