@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.pinimg.com/originals/20/98/22/20982203dc928f8fad300cdeeb4d20b1.gif" width="700px" alt="Demonstração do Projeto">
+</div>
+
 <h1 align="center"> Bem-vindo(a) ao meu perfil!</h1>
 
 <p align="center">
@@ -18,7 +22,7 @@ Sou desenvolvedora front-end com foco em criar interfaces acessíveis, performá
 - 📚 Sempre buscando aprender e aplicar boas práticas de desenvolvimento
 
 ---
-
+<div align="center">
 ## Tech Stack
 
 | Frontend | Backend / Mobile | Ferramentas |
@@ -27,6 +31,8 @@ Sou desenvolvedora front-end com foco em criar interfaces acessíveis, performá
 | Tailwind / CSS / Radix UI | Docker | Git & GitHub |
 | Yup / React Hook Form / Zod |React Native | Wakatime |
 |     |          |  Jenkins           |
+
+</div>
 
 ---
 
