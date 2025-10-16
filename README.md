@@ -23,6 +23,7 @@ Sou desenvolvedora front-end com foco em criar interfaces acessíveis, performá
 
 ---
 <div align="center">
+  
 ## Tech Stack
 
 | Frontend | Backend / Mobile | Ferramentas |
