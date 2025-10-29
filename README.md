@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/20/98/22/20982203dc928f8fad300cdeeb4d20b1.gif" width="700px" alt="Demonstração do Projeto">
-</div>
 
 <h1 align="center"> Bem-vindo(a) ao meu perfil!</h1>
 
